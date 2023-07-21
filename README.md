@@ -8,7 +8,7 @@ I'm James, a software developer who loves contributing to open source projects. 
 - [BitPacking](https://github.com/James-Frowen/BitPacking): A C# and Unity library for efficient bit packing and unpacking of data structures.
 - [Mirage.Profiler](https://github.com/James-Frowen/Mirage.Profiler): A profiler for Mirage and Mirror that allows for detailed analysis of network traffic and performance.
 
-I'm also available for freelance work, so if you're interested in working with me, feel free to reach out. You can contact me via Discord at JamesDev#1250 or email at jamesfrowendev@gmail.com.
+I'm also available for freelance work, so if you're interested in working with me, feel free to reach out. You can contact me via Discord at @jamesfrowen or email at jamesfrowendev@gmail.com
 
 You can find me on [Twitter](https://twitter.com/JamesFrowenDev), [LinkedIn](https://www.linkedin.com/in/james-frowen-71126912a/), or [GitHub](https://github.com/James-Frowen). Thanks for stopping by!
 
